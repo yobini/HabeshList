@@ -1,4 +1,2 @@
 hello world
 update on get hub
-update from local repo
-
